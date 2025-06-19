@@ -1,4 +1,4 @@
-# CoffeeShop Website – Nhóm 10
+
 
 Website mô phỏng giao diện quán cà phê dựa trên bản thiết kế Figma, được xây dựng bằng HTML, CSS và JavaScript thuần. Đây là bài tập lớn môn Kỹ thuật Phần mềm.
 Họ và tên: Trần Hữu Sơn  
