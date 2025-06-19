@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Menu | CoffeeShop</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">CoffeeShop</div>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="index.html">Trang chủ</a></li>
+        <li><a href="menu.html" class="active">Menu</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html">Liên hệ</a></li>
+      </ul>
+      <button id="menuToggle">☰</button>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Menu</h1>
+      <p>Cà phê, trà sữa, bánh ngọt & hơn thế nữa!</p>
+    </section>
+
+    <section class="products" style="padding: 2rem; text-align: center;">
+      <h2>Danh sách thức uống</h2>
+      <ul style="list-style: none; padding: 0;">
+        <li>Cà phê đen – 25.000đ</li>
+        <li>Latte – 35.000đ</li>
+        <li>Trà đào cam sả – 30.000đ</li>
+        <li>Matcha sữa đá – 35.000đ</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 CoffeeShop. Thiết kế bởi Nhóm 10.</p>
+  </footer>
+  <script src="js/script.js"></script>
+</body>
+</html>
